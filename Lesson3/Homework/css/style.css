@@ -1,0 +1,27 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	}
+
+.header {
+    margin-top: 40px;
+    margin-bottom: 143px;
+}
+
+.main_content {
+    
+    margin-bottom: 200px;
+}
+
+.main_logos {
+    margin-bottom: 96px;
+}
+
+.main_info h1{
+    padding-bottom: 17px;
+}
+
+.main_info p{
+    padding-bottom: 37px;
+}
